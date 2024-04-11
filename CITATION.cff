@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hadj-Arab"
+  given-names: "Yahia"
+  orcid: "https://orcid.org/0009-0008-9762-7817"
+title: "Quarto"
+url: "https://github.com/YahiaHadjarab/Quarto"
