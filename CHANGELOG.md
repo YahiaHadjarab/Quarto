@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/YahiaHadjarab/Quarto/compare/v1.2.0...v1.3.0) (2024-04-11)
+
+
+### Features
+
+* ignore ([872d726](https://github.com/YahiaHadjarab/Quarto/commit/872d726a52cfa943c39d764e04066b759c26c528))
+
 ## [1.2.0](https://github.com/YahiaHadjarab/Quarto/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
