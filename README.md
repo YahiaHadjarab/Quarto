@@ -9,3 +9,7 @@ Or used (citation file)
 ## Contributing
 
 ...
+
+## Licence
+
+...
